@@ -1,4 +1,4 @@
-# autoSET
+# autoSETI
 
 This is a Transformer model, trained on the Kaggle dataset, which are dynamic spectra generated from real observations taken using the Green Bank Telescope, with some containing artificially injected signals using setigen. We refer to the former as the "haystack", and the latter as the "needles".
 
