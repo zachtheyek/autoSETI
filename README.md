@@ -1,5 +1,3 @@
-# autoSETI
-
 This is a Transformer model, trained on the [Kaggle dataset](https://www.kaggle.com/c/seti-breakthrough-listen/overview/data-information), which are dynamic spectra generated from real observations taken using the Green Bank Telescope, with some containing artificially injected signals using [setigen](https://github.com/bbrzycki/setigen). We refer to the former as the "haystack", and the latter as the "needles".
 
 There are 2 files that will be of immediate interest to you: 
